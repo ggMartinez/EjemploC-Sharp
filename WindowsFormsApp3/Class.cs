@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace WindowsFormsApp3 {
-    class Persona {
+    class Producto {
     }
 }
 
