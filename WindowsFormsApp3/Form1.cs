@@ -15,7 +15,7 @@ namespace WindowsFormsApp3 {
         }
 
         private void button1_Click(object sender, EventArgs e) {
-            MessageBox.Show("Hola");
+            MessageBox.Show("Buen dia");
         }
     }
 }
